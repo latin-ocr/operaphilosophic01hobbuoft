@@ -1,0 +1,48 @@
+PARS 111.
+
+νῆν-4
+
+  
+
+290 DE RATIONIBUS MOTUUM.
+
+adjecto F, fiat utrumque F et D simul, ut unum
+corpus, aequale ipsi C, erit, per praecedentem,
+momentum C ad momentum F÷D, ut BG ad ΕΗ.
+Fiat Jam ut F÷D ad D, ita E H ad aliam, E1; et
+erit momentum F-l-D, hoc est, ipsius C, ad momen-
+tum D, ut BG ad EI. Sed ratio BG ad EI,
+componitur ex rationibus BG ad E H, hoc est,
+AB ad ΑΕ, et E H ad EI, hoc est, ponderis C
+ad pondus D; quare ponderantia magnitudine
+inaequalia, habent momenta, διο. Quod erat pro-
+bandum.
+
+6. Iisdem stantibus, si ducatur I K radio AB
+parallela, secans AG in K, et K L rectae BG
+parallela, secans AB in L, erunt distantiae a centro ⁴
+AB, AL momentis ipsorum C et D proportionaleS.
+Nam momentum C est BG, et momentum D est
+EI, cui aequalis est KL; sed ut A B distantia a
+centro ad AL distantiam a centro, ita est BG i ἶ
+momentum ponderantis C, ad L K sive E I mo-
+mentum ponderantis D.
+
+7. Si duorum ponderantium pondera et‘ dis-·
+tantiae a centro sint in ratione reciproca, sitque
+centrum librae inter puncta quibus ipsa ponde-
+
+re· rantia applicantur, fiet aequilibrium; et contra,
+
+si aequilibrium fiat, erunt ponderum et distantia-
+rum a centro librae ratio reciproca.
+
+Sit (in eadem fig. 3) centrum librae A, radius
+A B et applicatum in Β ponderans quodlibet C,
+cujus momentum sit B G; sit autem et aliud pon-
+derans quodlibet D, cujus momentum sit E I z
+ducatur per I recta I K parallela radio A B secans
+AG in K, et KL parallela B G; erit itaque K L
+momentum ponderantis D; eritque per praece-
+dentem, ut B G momentum ponderantis C in
+

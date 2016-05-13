@@ -1,0 +1,63 @@
+PARS ΙΙ.
+
+13. ¹
+
+Analogismi
+us
+
+ejusdem geo-
+metricae defi-
+nitio et meta-
+
+morph sssss
+
+132 PHILOSOPHIA PRIMA.
+
+niam ergo A est major quam C, et B quam D, erit
+A÷B major quam C ÷D, contra hypothesin.
+
+Si sint quatuor magnitudines quaecunque, com-
+posita ex maxima et minima, com'posita ex mediis,
+differentia maximarum, differentia minimarum, ¹
+sunt arithmetice proportionales. Sint enim quatuor
+magnitudines, A maxima, D minima, B et C mediae;
+dico A÷D. B÷C : ε A—B. C—-D esse arithmetice
+
+proportionales. Est enim differentia inter primum ᾗ
+
+antecedens et suum consequens haec, A -ι- D—B—C,
+
+at differentia inter antecedens secundum et con— ⁸
+
+sequens ejus est A—B-C÷D. Sed hae duae
+differentiae sunt aequales ; sunt ergo (per 5) A÷D.
+
+B÷C : ε A—B. C--D arithmetice proportionales, ss
+Si sint quatuor magnitudineS, binae binis aequales,
+
+erunt illae reciproce arithmetice proportionales.
+Sint enim A÷B, C÷D aequales. Dico A, C ε : D, B
+esse arithmetice proportionales. Nam si non
+sint, sint A. C: :D. E (sumendo E majorem vel
+minorem, quam Β) proportionales, sunt ergo A÷E, ⁴
+O÷D aequales; non sunt ergo A ÷B, C÷D aequales,
+quod est contra suppositum.
+
+6. Ratio geometrica rationi geometricae eadem
+est, quando causa aliqua aequalibus temporibus .·
+
+aequalia faciens, utramque rationem determinans ’
+
+eadem assignari potest.
+
+Si punctum uniformiter motum duas describat
+lineas, sive eadem sive diversa velocitate, earum
+partes omnes contemporaneae, hoc est, eodem
+tempore descriptae, erunt binae binis proportionales.
+quue sive antecedentes sumantur in eadem, sive
+in diversa linea.
+
+Sint enim (fig. 10 ad finem cap. 14) a puncto
+
+ 
+

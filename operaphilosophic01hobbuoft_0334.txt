@@ -1,0 +1,52 @@
+PARS 111.
+17.
+Figura¹ defici—
+entis ad com-
+plementan
+suum rano.
+
+ 
+
+210 DE RATIONIBUS MOTUUM.
+
+spatium D Β Ε F C ut 2 ad l ; si triplicata, ut 3 ad ’
+l ; et sic deinceps. ’
+LEMMA 1. Qua ratione velocitas puncti moti
+augetur, eadem ratione augentur quoque spatia
+ab eo iisdem vel aequalibus temporibus percursa.
+LEMMA 11. Si inter duas rectas interponantur
+mediae tum arithmeticae tum geometricae numero
+infinitae, hae et illae magnitudine non different„ .
+In parallelogrammo A Β C D (fig. 1) concipiatur
+latus AB moveri ad latus CD parallelas et mo-
+vendo decrescere donec tandem evanescat in puncto ⁴
+C ; et per talem motum descripta sit figura
+
+, Α Β Ε F C, relicto complemento D C F ΕΒ, cujus
+
+linea B E F C describitur a termino Β decrescentis ³*
+
+A B. Eodem autem tempore moveri intelligatur
+latus A C ad latus Β Ι), uniformiter. Potest igitur
+haberi C D pro mensura temporis. Rectae autem, ³1
+ipsi C D parallelae, terminatae ab una parte in linea
+B E F C, ab altera parte in recta A C, erunt men-²
+surae partium temporis, in quo AB movetur ad
+C D et A C ad B D.
+
+Sumatur jam in recta C D arbitrarie punctum Ο,
+ducaturque O S parallela lateri Β D, secans lineam
+B E F C in E et rectam A B in S. Rursus, a puncto
+Q sumpto in C D ad libitum, ducatur eidem lateri
+B D parallela Q R, secans Β Ε F C in F et A B in q
+R. Ducantur etiam E G, F H parallelae C D, x
+secantes A C in G et H. Postremo idem suppo-
+natur factum esse per omnia puncta lineae BEFC.
+
+Dico jam esse ut aggregatum omnium veloci· ’
+tatum, quibus describuntur rectae QF, OE, D B
+caeteraeque omnes eadem methodo genitae, ad
+
+aggregatum temporum designatorum per rectas
+H F, G E, A Β et caeteraS‚ ita planum D C FE B
+

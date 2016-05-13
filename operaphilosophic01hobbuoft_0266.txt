@@ -1,0 +1,47 @@
+PAflaS ΙΙ.
+
+    
+
+142 PHILOSOPHIA PRIMA. i*
+
+nium intermediamm3 nam si sint quotcunque.
+rationem habentia A, Β, C, D, E, ratio A ad E>
+componitur ex rationibus A ad D et D ad E, et,
+rursus ratio A ad D, ex rationibus A ad C, et O
+
+ad D, et denique ratio A ad C, ex rationibus A ἃᾶ
+
+Β, et B ad C, ut modo ostensum est.
+
+Coroll. 2. Intelligitur hino quomodo duae rationes
+sunt eomponendae3 nam si dentur rationes Aad B
+et C ad D simul addendae. Si fiat ut C ad D ita
+B ad aliud, puta E, ponanturque ordine A, B, E,
+erit ratio A ad E summa ambarum rationum A ad
+B et B ad E, hoe est C ad D, vel si fiat ut D ad C,
+ita A ad aliud, E, ponanturque ordine E, A, B, erit
+ratio E ad B, composita ex ratione E ad A (hoe est·
+C ad D) et A ad B. Intelligitur item quo modo
+ratio a ratione auferri potest ; nam si a ratione A
+ad B, tollenda sit ratio C ad D, fiat ut C ad D ita.
+A ad aliud, E, positis jam ordine A, E, B, ablataque
+ratione A ad E, id est C ad D, residua ratio est E
+ad B.
+
+Coroll. 3. Si sint duo ordines habentium ratio-
+nem aliquam, sintque singulae rationes primi ordinis
+eaedem totidemque cum rationibus secundi ordinis,·
+sive respondeant singulae singulis, id quod vocant
+rationem ordinatam, sive non respondeant, ubi
+scilicet ratio dicitur perturbata, erunt prima ulti-
+mis proportionalia. Nam primum et ultimum ratio· Δ,
+nem habent aequalem omnibus rationibus interjectis,
+in utroque ordine ι quae cum sint eaedem et totidem,
+earum summae sunt aequales ε summis autem aequales
+sunt rationes primorum ad ultima. Eadem itaque
+ratio est primi ad ultimum in uno ordine quae est
+ratio primi ad ultimum in altero ordine; sunt ergo
+
+prima ultimis proportionalia.
+14. Si fuerint duo quaelibet faeta ex multiplica-
+

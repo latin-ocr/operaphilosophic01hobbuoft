@@ -1,0 +1,62 @@
+PARS ΙΙ. hoc est A ad B; quare ex aequo per rationem
+
+13.
+
+»η’-ν perturbatam erunt A. D : ε Ε. C proportionalia.
+
+Rationi-
+arithmeticae
+
+etgeometricae inaequalia, interposita quotcunque media, tam in
+
+comparatio.
+
+150 PHILOSOPHIA PmMA.
+
+26. Si fuerint inter eadem extrema, sed inter se
+
+geometrica quam in arithmetica ratione, totidem
+utrobique, singula media rationis geometricae
+erunt singulis mediis rationis arithmeticae minora.
+Sint enim inter A minimum et E maximum inter-
+posita in ratione geometrica, verbi gratia, tria
+media B, C, D ; et in ratione arithmetica totidem =
+F, G, H; dico B quam F, O quam G, D quam , 3
+H minus esse. Est enim, primum, differentia inter
+
+A et F eadem quae inter F et G sive G et H ς
+(propter rationem arithmeticam) ς ideoque diffe-
+rentia inter singula proxima proportionalia est
+differentiae extremorum, ubi unicum est medium,
+semissis; ubi duo, triens3 ubi. tria, quadranS, διο. ³
+in hoc exemplo ergo est quadrans, At differentia ῃ
+inter D et E (per art. 17) est plus quam quadrans ’
+differentiae extremorum, propter rationem geome-
+tricam, differentia ergo inter A et D minor est
+quam tres quadrantes ejusdem
+differentiae extremorum. Simi-
+liter si intelligatur differentia inter
+A et D divisa in tres partes
+aequales, ostendetur differentiam
+inter A et C minorem esse quam
+duos quadrantes differentiae extre-
+morum A et E, et denique, divi-
+dendo differentiam inter A et C bifariam, inter
+
+A et B minorem esse quadrante differentiae extre-
+morum A et E.
+
+His consideratis, erit Β (hoc est, A, una cum
+alio quodam, quod minus est quadrante differentiae
+
+ 
+
+&leit-2100&
+minelum>
+
+———-
+
+[1
+
+ 
+

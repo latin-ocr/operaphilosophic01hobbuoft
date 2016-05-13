@@ -1,0 +1,47 @@
+PARS ΙΙΙ.
+17.
+Tran slatio
+proprietatum
+quarundam, etc
+
+ 
+
+220 DE RATIONIBUS MOTUUM.
+
+D E B C, E K Β F, ut parallelogramma A C, I F, id
+est, in ratione composita altitudinum et basium;
+quoniam ergo altitudo B C ad altitudinem B F
+ponitur esse in ratione basium D C, F E triplicata,
+erit figura D E B C ad figuram E K B F in ratione
+D C ad FE quadruplicata. Eadem methodo inve-
+niri potest ratio cujuslibet ex trilineis praedictis¹
+ad partem ejusdem quamcunque abscissam a vertice
+recta basi parallela. ⁴
+
+J am sicut figurae dictae descriptae intelligunturv
+ex base, puta CD, decrescente donec desinat in ,
+puncto, ut in Β, ita etiam descriptae eaedem intelligi
+possunt a puncto, ut Β, crescente donec acquirat „
+magnitudinem quamlibet, ut C D. ’
+
+Intelligatur igitur a puncto Β crescente in mag-
+nitudinem C D, descripta B E D C. Quoniam ergo
+B C est ad B F in ratione CD ad FE triplicata, ἰ
+erit invertendo, ut mox ostendemus, FE ad C D in
+ratione B F ad Β C triplicata. Siquidem ergo recta ’
+Β C sumatur pro mensura temporis in quo movetur
+punctum Β, repraesentabit figura E K B F summam
+omnium velocitatum crescentium tempore B F,-
+et figura D E B C repraesentabit summam omnium
+velocitatum crescentium tempore ‘B C. Quoniam*
+igitur figura EKBF est ad figuram DEBC in
+ratione altitudinum et basium composita, estque
+ratio FE ad OD triplicata rationis BF ad BC; γ
+erit figura E K Β F ad figuram D E B C in ratione
+B F ad Β C quadruplicata, hoc est, summa veloci-
+tatum qua itur tempore Β F, est ad summam
+velocitatum qua itur tempore B C, in ratione B F
+ad Β O quadruplicata. ltaque si mobile in B
+moveatur velocitate ita crescente, ut velocitas
+tempore BF acquisita sit ad velocitatem tempore
+

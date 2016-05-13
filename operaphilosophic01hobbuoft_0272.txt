@@ -1,0 +1,49 @@
+PARS ΙΙ.
+
+148 PHILOSOPHIA PR1MA.
+
+est ergo ratio composita (per artic. 15,) ratio aequa-
+
+»ψ litatis; quare ratio A in D ad B in C est ratio
+
+Rationi sssss
+tinuae definitio
+etproprietates.
+
+aequalitatis: sunt ergo aequalia.
+
+22. Si sint quatuor quantitates, sitque ratio
+primae ad secundam duplicata rationis, quam habet
+tertia ad quartam, erit factum ab extremis ad
+factum ex mediis ut tertia ad quartam.
+
+Sint enim quatuor quantitates A. B. C. D.
+Sitque ratio A ad B duplicata rationis C ad D;
+dico AD, id est factum ex A in D, esse ad B C,
+seu factum ex mediis, ut C ad D.
+
+Quoniam enim ratio A ad. B duplicata est
+rationis C ad D, si fiat ut C ad D ita D ad aliud, Ε,
+erunt A. Β :z C. E proportionalia ; >nam ratio A ad
+B est (per hypothesin) duplicata rationis C ad D,
+et C ad E duplicata est ejusdem C ad D, per
+definitionem (artic. 16), quare (per praecedentem)
+A E sive A in Ε, aequale est B C sive B in C, sed
+AD est ad A E (per coroll. 4, artic. 6) ut D ad E,
+sive ut C ad D, est ergo A D ad B C (quod osten-
+sum est ipsi A E aequale) ut C ad D; quod erat
+probandum.
+
+Porro si ratio primae A ad secundam B triplicata
+sit rationis quam habet tertia C ad quartam D,
+erit factum ab extremis ad factum ex mediis in
+duplicata ratione tertiae ad quartam; nam si fiat
+ut C ad D, ita D ad E, et rursus ut D ad E, ita E ad
+F, erit ratio C ad F triplicata rationis C ad D, et
+proinde A. Β : : C. F erunt proportionalia, et A F
+erit aequale Β Ος sed ut A D ad A F ita D ad F,
+quare etiam ut A D ad B C, ita D ad F, hoc est
+ita C adE3 sed ratio C ad E est duplicata rationis
+C ad D, quare etiam ratio A D ad B C est duplicata
+rationis C ad D, quod erat propositum.
+

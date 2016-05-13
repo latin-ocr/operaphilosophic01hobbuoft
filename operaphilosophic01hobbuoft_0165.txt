@@ -1,0 +1,56 @@
+DE SYLLoelsMO. 41
+
+  
+
+{meque fiet syllogismus ; sit enim minor terminus
+’ stomun, medius animal, major leo, et sint praemissae
+
+PARS 1.
+4.
+
+{omnis homo εει animal, quoddam animal est leo, in utraque
+
+] 'non sequetur tamen, omnem aut aliquem hominem
+> εεεε leonem. Ex quo intelligitur in omni syllo-
+. :gismo, illam propositionem quae habet medium
+2, terminum pro subjecto, debere esse aut univer-
+, salem, aut singularem, non autem particularem
+:neque indefinitam. Exempli causa, syllogismus
+hic omnis. homo εει animal, quoddam animal εει
+[5 quadrupes, ergo quidam homo ext quadrupes,
+ideo vitiosus est, quia medius terminus animal in
+priore praemissa ad hominem solum determinatur,
+dicimus enim hoc tantum ranimal esse nomen
+2 hominis, in posteriore vero de aliquo alio animale
+praeter hominem intelligi potest. At si posterior
+j fuisset universalis, ut hic, omnis homo εει animal,
+ζ’ omne animal εει corpus, ergo, omui-s· homo εει
+corpus, syllogismus fuisset legitimus, sequutum
+7 enim esset corpus esse omnis animaliS, id est,
+etiam hominis nomen, id est, veram fuisse conclu-
+sionem omnis homo εει corpus. Similiter si
+γ medius terminus sit singulare nomen, fiet syllo-
+gismus, inutilis quidem ad Philosophiam, sed
+³4- tamen syllogismus, ut hic, quidam homo εει
+ὲ Socrates, Socrates εει philosophus, ergo, quidam
+-·,.' homo εει philosophum nam concessis praemissis,
+’ἶ negari conclusio non potest.
+
+5. Ex duabus ergo praemissis in quibus ambabus
+medius terminus est particularis, non fit syllo-
+’ gismus; nam sive medius term-inus sit in utraque
+“ef -praemissa subjectum, sive in utraque praedicatum,
+sive in altera subjectum in altera praedicatum, non
+
+ 
+
+propositione
+determinatus
+
+ad rem unam
+et eandem.
+
+Ex duabus
+particularibus
+nihil infertur.
+

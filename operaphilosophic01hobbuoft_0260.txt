@@ -1,0 +1,65 @@
+PARS ΙΙ.
+13.
+Αῐιελοὲἰεξωί·
+sssss tloms
+ejusdem geo-
+metricae defi-
+
+nitio et meta-
+morph sssss
+
+136 PHILOSOPHIA PRIMA.
+
+Coroll. 8. Si fuerint quatuor proportionalia,
+etiam per conversam rationis (id est invertendo
+rationem divisam, sive sumendo totum pro ante-
+cedente et differentiam sive reliquum pro con-
+sequente) erunt proportionalia; ut si A. B : : C. D
+
+sunt proportionalia, erunt quoque A. A—B :2 C.
+C—D, et B. A—B ε z D. C—D proportionalia.
+
+Cum enim horum inversa sint proportionalia, etiam
+
+ipsa proportionalia erunt.
+
+Coroll. 9. Si fuerint duo analogismi, quorum
+quantitates secunda secundae, et quarta quartae ,
+
+sunt aequales, erit sive summa sive differentia
+primarum ad secundam, ut summa vel differentia
+
+tertiarum ad quartam. Sint duo analogismi ·
+
+A.B:: C. D, etE.B::F. D,dieoA÷E.B::C÷F.D
+esse proportionalia. Nam propositi analogismi,
+permutando, fiunt A. C z: B. D et E. F :2 B. D;
+
+sunt ergo A. C :z E. F proportionalia, (habent ,
+
+enim communem rationem B ad D,) quare si ad
+A et C primi analogismi permutati, addantur E
+
+et F, ipsis A et C proportionalia, erunt (per ’
+Coroll. 3.) A÷E. B :t G÷F. D proportionalia; „
+
+quod erat probandum.
+
+Eodem modo ostendi potest etiam ·A-E. γ
+
+Β z: C—F. D esse proportionalia.
+
+7. Si sint duo analogismi, quorum quatuor·
+
+antecedentia faciunt analogismum, eorum etiam
+consequentia faciunt analogismum. Etiam summae
+antecedentium summis consequentium erunt pro-
+portionales.
+
+Sint enim duo analogismi A. B z: C. D, et E.
+F t: G. H, sint autem et A. E z: C. G proportion-
+alia, erunt ergo permutando A. C :z E. G et
+E. G ιε F. H, et A. C z : B. D proportionalia; quare
+
+st
+
